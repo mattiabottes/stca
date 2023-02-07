@@ -4,7 +4,7 @@
 
 `git clone "https://github.com/mattiabottes/stca.git"`\
 `cd stca`\
-`npm install`
+`npm install && npm run build`
 
 ### Install Capacitor
 
