@@ -2,8 +2,8 @@
 
 ### Clone Project
 
-`git clone "https://github.com/mattiabottes/stca.git"`\
-`cd stca`\
+`git clone "https://github.com/mattiabottes/stca.git" your-app-name`\
+`cd your-app-name`\
 `npm install && npm run build`
 
 ### Install Capacitor
