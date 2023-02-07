@@ -6,4 +6,4 @@
 `npx cap init --web-dir=build`\
 `npm install @capacitor/android`\
 `npx cap add android`\
-`npx cap open android`\
+`npx cap open android`
