@@ -1,6 +1,12 @@
 # Sveltekit + Taiwind CSS + Capacitor App
 
-### Configuration
+### Clone Project
+
+`git clone "https://github.com/mattiabottes/stca"`\
+`cd stca`\
+`npm install`\
+
+### Install Capacitor
 
 `npm install @capacitor/core @capacitor/cli`\
 `npx cap init --web-dir=build`\
