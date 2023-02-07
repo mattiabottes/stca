@@ -2,9 +2,9 @@
 
 ### Clone Project
 
-`git clone "https://github.com/mattiabottes/stca"`\
+`git clone "https://github.com/mattiabottes/stca.git"`\
 `cd stca`\
-`npm install`\
+`npm install`
 
 ### Install Capacitor
 
