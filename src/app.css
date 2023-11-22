@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.barcode-scanner-active,
+.barcode-scanner-active > div,
+.barcode-scanner-active [data-target='barcode'] {
+	background-color: transparent !important;
+}
+
+*:active,
+*:focus {
+	outline: 0;
+}
