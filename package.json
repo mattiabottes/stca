@@ -30,18 +30,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@capacitor-mlkit/barcode-scanning": "^5.3.0",
-		"@capacitor/android": "^5.5.1",
-		"@capacitor/cli": "^5.5.1",
-		"@capacitor/core": "^5.5.1",
-		"@capacitor/filesystem": "^5.1.4",
-		"@capacitor/preferences": "^5.0.6",
-		"@capacitor/status-bar": "^5.0.6",
-		"cordova-plugin-screen-orientation": "^3.0.4",
-		"cordova-sqlite-storage": "^6.1.0",
-		"pdfjs-dist": "^3.8.162",
-		"qrcode": "^1.5.3",
-		"remixicon": "^3.5.0",
-		"signature_pad": "^4.1.7"
+		"remixicon": "^3.5.0"
 	}
 }
