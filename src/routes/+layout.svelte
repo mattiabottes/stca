@@ -1,6 +1,6 @@
 <script>
 	import '../app.css';
-	import '../fontawesome.css';
+	import 'remixicon/fonts/remixicon.css';
 </script>
 
 <slot />
