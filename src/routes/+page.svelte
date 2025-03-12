@@ -1,5 +1,5 @@
 <script>
-	let counter = 0;
+	let counter = $state(0);
 
 	const handleClick = () => counter++;
 </script>
@@ -10,7 +10,7 @@
 
 	<button
 		class="p-2 rounded-lg bg-gray-100 active:opacity-60 transition-opacity"
-		on:click={handleClick}
+		onclick={handleClick}
 	>
 		<i class="ri-add-line" /> Add click
 	</button>
