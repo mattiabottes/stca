@@ -12,6 +12,6 @@
 		class="p-2 rounded-lg bg-gray-100 active:opacity-60 transition-opacity"
 		onclick={handleClick}
 	>
-		<i class="ri-add-line" /> Add click
+		<i class="ri-add-line"></i> Add click
 	</button>
 </div>
