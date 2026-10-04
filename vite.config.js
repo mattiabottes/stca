@@ -3,7 +3,12 @@ import tailwindcss from '@tailwindcss/vite';
 
 /** @type {import('vite').UserConfig} */
 const config = {
-	plugins: [tailwindcss(), sveltekit()]
+	plugins: [tailwindcss(), sveltekit()],
+	server: {
+		host: true, 
+		port: 5173,
+		strictPort: true
+	}
 };
 
 export default config;

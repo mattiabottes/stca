@@ -13,3 +13,7 @@
 `npm install @capacitor/android`\
 `npx cap add android`\
 `npx cap open android`
+
+### Live Reload
+
+`npx cap run android -l --host localhost --port 5173 --forwardPorts 5173:5173`
